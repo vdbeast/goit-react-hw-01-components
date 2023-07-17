@@ -20,3 +20,8 @@
 .location {
     text-align: center;
 }
+
+.stats {
+    display: flex;
+    gap: 30px;
+}
